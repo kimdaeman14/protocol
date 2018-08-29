@@ -1,4 +1,4 @@
 # protocol
 
 dd
-ss
+s
