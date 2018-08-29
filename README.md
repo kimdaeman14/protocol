@@ -1,5 +1,3 @@
 # protocol
 
-dd
-s
-j
+ddss
